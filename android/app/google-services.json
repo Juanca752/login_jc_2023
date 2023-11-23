@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879269238122",
+    "project_id": "loginjc-2023",
+    "storage_bucket": "loginjc-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879269238122:android:24246a5a48380f14c70113",
+        "android_client_info": {
+          "package_name": "com.example.login_jc_2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIkcueUiaJzy5cSQwZR6xifmVcgVokj7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
