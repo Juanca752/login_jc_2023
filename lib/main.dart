@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
         navigatorKey: navigatorKey,
         debugShowCheckedModeBanner: false,
         title: title,
-        theme: ThemeData.dark().copyWith(),
+        theme: ThemeData.light().copyWith(),
         home: const MainPage(),
       );
 }

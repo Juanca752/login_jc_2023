@@ -10,8 +10,8 @@ class Interfaces extends StatelessWidget {
       body: Stack(
         children: [
           //FloatingActionButton(onPressed: onPressed)
-          TabBarH(),
-          ConsejosB(),
+         // TabBarH(),
+         // ConsejosB(),
         ],
       ),
     );

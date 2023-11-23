@@ -96,7 +96,7 @@ class _LoginWidgetState extends State<LoginWidget> {
             const SizedBox(height: 16),
             RichText(
               text: TextSpan(
-                style: const TextStyle(color: Colors.white, fontSize: 15),
+                style: const TextStyle(color: Colors.black, fontSize: 15),
                 text: 'No account?  ',
                 children: [
                   TextSpan(
